@@ -62,9 +62,12 @@ Register No : 212224040067
  
 ```
 
-# Result
+# Output 
 
 ![Screenshot 2025-05-23 193128](https://github.com/user-attachments/assets/5671ef79-c5ed-480b-b2d7-9fe78aee3210)
 
 
-# Output 
+# Result
+
+Therefore,Correlation and regression for data analysis is verified sucessfully.
+
